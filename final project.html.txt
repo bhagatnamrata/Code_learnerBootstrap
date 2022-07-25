@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>project</title>
+    
+</head>
+<body>
+    
+    <h1><mark>Namrata Ambhore</mark></h1>
+    <nav>
+        
+            <a href="#">One</a>
+            <a href="#">Two</a>
+            <a href="#">Three</a>
+            <a href="#"><mark>Interests</mark> </a>
+        
+    </nav>
+    <h2>Favorite Foods</h2>
+    <ul>
+        <li> <mark>Apples</mark></li>
+        <li><mark>Pizza</mark></li>
+        <li><mark>Burger</mark></li>
+        <li><mark>Salads</mark></li>
+
+        
+    </ul>
+    <h2>Achievements</h2>
+    <p>Progress in this course(100%)<progress value="100" max="100">100%</progress></p>
+    <p>Progress in the Specialization capstone(20%)<progress value="20" max="100">20%</progress></p>
+    <p>Progress in life goals<mark>(60%)<progress  value="60" max="100"></progress></mark></p>
+
+    <h2>More About Me</h2>
+
+    <details><summary
+        > My Childhood</summary>
+    <p> I grew up in maharashtra Nagpur . Its famous for Oranges and  many law colleges . </p></details>
+    <p><big>WD4E</big> This page was created by <mark>Your name </mark>& Colleen van Lent. To learn more about web design , visit <a href="#">Intro to Web Design.</a> </p>
+    <h3>Grading Checklist</h3>
+
+    <ol>
+        <li>doctype</li>
+        <li>head</li>
+        <li>body</li>
+        <ul>
+            <li>nav--add four links, they can go to anywhere you like or nowhere at all</li>
+            <li>section-Favorite Foods</li>
+            <li>section-Achievements</li>
+            <li>section-More About Me</li>
+        </ul>
+        <li>footer-The image from the footer can be found at my website:
+            <a href="#"> http://www.intro-webdesign.com/images/newlogo.png</a></li>
+    </ol>
+    
+</body>
+</html>
